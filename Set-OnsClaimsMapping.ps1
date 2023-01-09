@@ -1,6 +1,6 @@
 <#
 .DESCRIPTION
-    This script will add the `"employee_number`" claim to an existing Application Registration in Azure.
+    This script will add the "employee_number" claim to an existing Application Registration in Azure.
     The claim uses the "employeeid" attribute in Azure Active Directory for the claim value.
     Please make sure you are connected to the correct AzureAD tenant before proceeding.
 
